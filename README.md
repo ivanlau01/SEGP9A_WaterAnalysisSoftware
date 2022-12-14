@@ -1,4 +1,4 @@
-GITHUB LINK: https://github.com/KenjiLoo/SEGP9A
+GITHUB LINK: https://github.com/ivanlau01/SEGP9A_WaterAnalysisSoftware
 
 # PRE-REQUISITES:
 
